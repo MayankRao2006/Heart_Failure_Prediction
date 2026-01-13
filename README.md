@@ -1,4 +1,4 @@
-# Heart Failure Predictor
+# ❤️ Heart Failure Predictor
 
 Heart Failure Predictor is a **machine learning project** that predicts the likelihood of heart disease in patients using medical data. This project demonstrates a complete ML pipeline: from preprocessing raw data to training a model, and making predictions on new data.
 
@@ -72,5 +72,5 @@ HeartPredictor/
 
 ---
 
-## Credits
+## 🙏 Credits
 Dataset by Fedesoriano on Kaggle - https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
