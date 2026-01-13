@@ -1,6 +1,6 @@
-# HeartPredictor
+# Heart Failure Predictor
 
-HeartPredictor is a **machine learning project** that predicts the likelihood of heart disease in patients using medical data. This project demonstrates a complete ML pipeline: from preprocessing raw data to training a model, and making predictions on new data.
+Heart Failure Predictor is a **machine learning project** that predicts the likelihood of heart disease in patients using medical data. This project demonstrates a complete ML pipeline: from preprocessing raw data to training a model, and making predictions on new data.
 
 ---
 
